@@ -29,9 +29,9 @@
 </a> </a> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="c" width="40" height="40"/> </a> </a> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="cplusplus" width="40" height="40"/>  </a>  </a> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="cplusplus" width="40" height="40"/> </a> </a> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mmmmm222&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mmmmm222&theme=midnight-purple&hide_border=false)
 
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
