@@ -30,11 +30,10 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmmmm222&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamed ali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmmmm222&show_icons=true&locale=en&theme=tokyonight" alt="mohamed ali" /></p>
+![](https://github-readme-stats.vercel.app/api?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mmmmm222&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmmm222&&theme=tokyonight" alt="mmmmm222" /></p>
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
