@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Embedded Systems**
 
-- 📫 How to reach me [mail](mohamedalim559@gmail.com)
+- 📫 How to reach me [Gmail](mohamedalim559@gmail.com)
 
 - ⚡ Fun fact **I am Not Funny**
 
