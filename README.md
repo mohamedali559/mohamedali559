@@ -41,5 +41,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmmmm222&theme=midnight-purple&hide_border=false)
 
 
-<!-- ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
+<!-- ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmm222&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+
 
