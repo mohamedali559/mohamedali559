@@ -9,13 +9,12 @@
 
 
 
-- 🌱 I’m currently learning **ARM**
+- 🌱 I’m currently learning **Linux**
 
 - 💬 Ask me about **Embedded Systems**
 
 - 📫 How to reach me **mohamedalim559@gmail.com**
 
-- ⚡ Fun fact **I am Not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
